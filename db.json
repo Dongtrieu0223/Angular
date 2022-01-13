@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "name": "ashe",
+      "email": "ashe123@gmail.com",
+      "password": "as123",
+      "id": 10
+    },
+    {
+      "name": "ashe",
+      "email": "ashe456@gmail.com",
+      "password": "456",
+      "id": 10
+    },
+    {
+      "name": "ashe",
+      "email": "ashe789@gmail.com",
+      "password": "789",
+      "id": 10
+    },
+    {
+      "name": "ashe",
+      "email": "ashe789@gmail.com",
+      "password": "as123",
+      "id": 10
+    },
+    {
+      "name": "leona",
+      "email": "leona23@gmail.com",
+      "password": "123",
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
